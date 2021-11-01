@@ -5,7 +5,7 @@ Welcome to **PHP from Zero** crash course. We will learn the basic syntax to sta
 We will cover the following topics:
 
 * PHP File declaration
-* PHP Types: Primitives
+* PHP Types: Primitive strings, integers and floats
 * PHP Operators: Comparison and math operators
 * Running PHP CLI scripts
 * Running PHP built in server
