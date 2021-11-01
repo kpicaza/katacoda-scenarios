@@ -6,11 +6,11 @@ We will start learning with PHP 8.0 version, this is the stable version at the m
 
 * A valid php file name must end with `.php` extension.
 * Is recommended to be a unique word without spaces.
-* It  must have PHP open tag `<?php` at the first line of the file.
+* It  must have PHP open tag `\\<?php` at the first line of the file.
 * It can be declared with strict type checking.
 
 ```php
-<?php
+\\<?php
 
 declare(strict_types=1);
 ```

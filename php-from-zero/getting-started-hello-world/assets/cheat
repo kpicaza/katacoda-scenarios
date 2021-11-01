@@ -1,0 +1,5 @@
+#!/bin/bash
+
+seconds_sofar=$1
+
+echo "### Hints: $seconds_sofar"

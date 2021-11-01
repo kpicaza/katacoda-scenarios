@@ -1,4 +1,5 @@
 {
+  "type": "challenge@0.8",
   "title": "Getting Started - Hello World!!!",
   "description": "",
   "difficulty": "Beginner",
@@ -6,12 +7,10 @@
   "details": {
     "steps": [
       {
-        "title": "PHP File Declaration",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Task 1: PHP File Declaration",
+        "text": "1_task.md",
+        "hint": "1_hint.sh",
+        "verify": "1_verify.sh"
       }
     ],
     "intro": {
@@ -20,6 +19,15 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "cheat",
+          "target": "/usr/local/bin/",
+          "chmod": "+x"
+        }
+      ]
     }
   },
   "environment": {
