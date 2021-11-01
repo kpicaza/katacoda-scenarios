@@ -1,0 +1,33 @@
+{
+  "title": "Getting Started - Hello World!!!",
+  "description": "",
+  "difficulty": "Beginner",
+  "time": "5",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "foreground": "setuser.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uieditorpath": "/home/dev/server",
+    "showide": true,
+    "uilayout": "vscode-terminal-split"
+  },
+  "backend": {
+    "imageid": "kpicaza-php8"
+  }
+}

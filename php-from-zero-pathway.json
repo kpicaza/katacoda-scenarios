@@ -1,0 +1,13 @@
+{
+  "title": "PHP from Zero",
+  "description": "A crash course to start programming in PHP.",
+  "icon": "fab fa-php",
+  "courses": [
+    {
+      "pathway_id": "php-from-zero",
+      "course_id": "getting-started-hello-world",
+      "title": "Getting started with PHP - Hello World!!!",
+      "description": "Getting started with PHP - Hello World!!!"
+    }
+  ]
+}
